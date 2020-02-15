@@ -1,7 +1,7 @@
 # PHP-SQLite-Calendar-Script
 PHP SQLite Calendar Script
 
-Basic PHP Sqlite Calendar script for your website. Simple and easy to use.
+Basic PHP Sqlite Calendar script for your website. Simple and easy to use. Main calendar page displays +- three months in previous and next links, to add more change line 75, 76 in events.php file.
 
 Screenshot
 
