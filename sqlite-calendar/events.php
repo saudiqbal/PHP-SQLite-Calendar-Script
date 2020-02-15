@@ -76,7 +76,7 @@ class Calendar {
 	$min_date = date('Y-m', strtotime("-3 months", strtotime(date('Y-m'))));
 	if($input_date > $max_date OR $input_date < $min_date)
 	{
-		header("location: /events.php");
+		header("location: events.php");
 		exit;
 	}
 	  
